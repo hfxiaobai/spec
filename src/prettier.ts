@@ -6,9 +6,9 @@ module.exports = {
   jsxBracketSameLine: true,
   alwaysParens: 'always',
   insertPragma: false,
-  printWidth: 100,
   tabWidth: 2,
   useTabs: false,
+  printWidth: 100,
   proseWrap: 'never',
   endOfLine: 'lf',
   overrides: [
